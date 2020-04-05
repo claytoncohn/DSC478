@@ -1,2 +1,2 @@
-# CSC478
-CSC478 Programming Machine Learning Applications
+# DSC478
+DSC478 Programming Machine Learning Applications
